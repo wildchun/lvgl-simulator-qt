@@ -1,0 +1,8 @@
+//
+// Created by Administrator on 2024/3/11/011.
+//
+
+#ifndef LVGL_SIMULATOR_QT_GUI_DEMO_MAIN_H
+#define LVGL_SIMULATOR_QT_GUI_DEMO_MAIN_H
+
+#endif //LVGL_SIMULATOR_QT_GUI_DEMO_MAIN_H
